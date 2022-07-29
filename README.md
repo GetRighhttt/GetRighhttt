@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**GetRighhttt/GetRighhttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Welcome to my page!</h3>
 
-Here are some ideas to get you started:
+<hr>
+<p>My name is Stefan Bayne, and I'm currently a software engineer! <br>
+I enjoy creating apps with Android development, playing around with JavaScript, HTML, and CSS <br>
+for Web Development, and exloring the world of Linux, Version Control, etc. with DevOps!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything! I'm always looking to learn as well as help if I can.
+- 📫 You can reach me via my email address: @stefanbusiness95@gmail.com, or my Twitter account!
+- ⚡ Fun fact: I <b>LOVE</b> basketball and gaming. If you follow me on Twitter, I'm sure you will see that! 
+- ⚡ My <em><strong>"GetRighhttt"</em></strong> name actually came from playing Fortnite while I was in college. LOL! <br>
+- 💬 Before every game I played with my college friends, I'd yell, "It's time to <strong><em>Geeett Riigghhhhtttt!<strong></em>" 
+<hr>
+
+#### Hopefully I'll get the chance to connect with you all soon!
+
+##### See ya! 👋

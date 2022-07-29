@@ -14,6 +14,7 @@ for Web Development, and exloring the world of Linux, Version Control, etc. with
 - 💬 Before every game I played with my college friends, I'd yell, "It's time to <strong><em>Geeett Riigghhhhtttt!<strong></em>" 
 <hr>
 
+#### Feel free to follow and connect with me! 
 #### Hopefully I'll get the chance to connect with you all soon!
 
 ##### See ya! 👋

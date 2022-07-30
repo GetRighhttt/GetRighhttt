@@ -22,6 +22,9 @@ for Web Development, and exloring the world of Linux, Version Control, etc. with
 
 ##### See ya! 👋
 
-### Git Certification from AmigosCode 
+### Git and GitHub Essentials Certification from AmigosCode :
 
 [certificate-of-completion-for-git-and-github-essentials.pdf](https://github.com/GetRighhttt/GetRighhttt/files/9226691/certificate-of-completion-for-git-and-github-essentials.pdf)
+
+### AWS Certification :
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/105057858/181919733-1f1e6748-02fc-47f9-bdb0-c8a145f168e5.png)

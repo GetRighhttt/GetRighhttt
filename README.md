@@ -14,9 +14,14 @@ for Web Development, and exloring the world of Linux, Version Control, etc. with
 - ⚡ Before every game I played with my college friends, I'd yell, "It's time to <strong><em>Geeett Riigghhhhtttt!<strong></em>" 
 - ⚡ Graduated from <b>Florida Agricultural and Mechanical University!</b>
 - ⚡ I want to eventually create my own platform to teach development one day!
+- ⚡ I'm also certified in AWS for cloud practicioner! 
 <hr>
 
 #### Feel free to follow and connect with me! 
 #### Hopefully I'll get the chance to connect with you all soon!
 
 ##### See ya! 👋
+
+### Git Certification from AmigosCode 
+
+[certificate-of-completion-for-git-and-github-essentials.pdf](https://github.com/GetRighhttt/GetRighhttt/files/9226691/certificate-of-completion-for-git-and-github-essentials.pdf)

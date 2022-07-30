@@ -11,7 +11,7 @@ for Web Development, and exloring the world of Linux, Version Control, etc. with
 - 📫 You can reach me via my email address: @stefanbusiness95@gmail.com, or my Twitter account!
 - ⚡ Fun fact: I <b>LOVE</b> basketball and gaming. If you follow me on Twitter, I'm sure you will see that! 
 - ⚡ My <em><strong>"GetRighhttt"</em></strong> name actually came from playing Fortnite while I was in college. LOL! <br>
-- ⚡ Before every game I played with my college friends, I'd yell, "It's time to <strong><em>Geeett Riigghhhhtttt!<strong></em>" 
+- ⚡ Before every game I played with my college friends, I'd yell, "It's time to <strong><em>Geeett Riigghhhhtttt!</strong></em>" 
 - ⚡ Graduated from <b>Florida Agricultural and Mechanical University!</b>
 - ⚡ I want to eventually create my own platform to teach development one day!
 - ⚡ I'm also certified in AWS for cloud practicioner! 

@@ -5,13 +5,16 @@
 <hr>
 <p>My name is Stefan Bayne, and I'm currently a software engineer! <br>
 I enjoy creating apps with Android development, playing around with JavaScript, HTML, and CSS <br>
-for Web Development, and exloring the world of Linux, Version Control, etc. with DevOps!</p>
+for Web Development, and exloring the world of Linux, Version Control, etc. with DevOps! I am<br>
+truly passionate about creating applications with Kotlin and Java, and integrating new technologies<br>
+into my applications as often as possible. I'm always looking to further my knowledge, receive <br>
+constructive criticism, and learn from all of the connections I make. Hopefully one day I'll be<br>
+able to relay the knowledge I've gained with others as well!</p>
 
 - 💬 Ask me about anything! I'm always looking to learn as well as help if I can.
 - 📫 You can reach me via my email address: @stefanbusiness95@gmail.com, or my Twitter account!
 - ⚡ Fun fact: I <b>LOVE</b> basketball and gaming. If you follow me on Twitter, I'm sure you will see that! 
 - ⚡ My <em><strong>"GetRighhttt"</em></strong> name actually came from playing Fortnite while I was in college. LOL! <br>
-- ⚡ Before every game I played with my college friends, I'd yell, "It's time to <strong><em>Geeett Riigghhhhtttt!</strong></em>" 
 - ⚡ Graduated from <b>Florida Agricultural and Mechanical University!</b>
 - ⚡ I want to eventually create my own platform to teach development one day!
 - ⚡ I'm also certified in AWS for cloud practicioner! 

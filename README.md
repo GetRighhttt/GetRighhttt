@@ -21,16 +21,9 @@ able to relay the knowledge I've gained with others as well!</p>
 #### Feel free to follow and connect with me! 
 #### Hopefully I'll get the chance to connect with you all soon!
 
-##### See ya! 👋
-
-### Git and GitHub Essentials Certification from AmigosCode :
-
-[certificate-of-completion-for-git-and-github-essentials.pdf](https://github.com/GetRighhttt/GetRighhttt/files/9226691/certificate-of-completion-for-git-and-github-essentials.pdf)
-
-### Functional Programming Certificate
-[certificate-of-completion-for-java-functional-programming.pdf](https://github.com/GetRighhttt/GetRighhttt/files/9378800/certificate-of-completion-for-java-functional-programming.pdf)
-
 ### AWS Certification :
 ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png)
 
 <hr>
+
+##### See ya! 👋

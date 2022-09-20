@@ -11,8 +11,7 @@ able to relay the knowledge I've gained with others as well!</p>
 - 💬 Ask me about anything! I'm always looking to learn as well as help if I can.
 - 📫 You can reach me via my email address: @stefanbusiness95@gmail.com, or my Twitter account!
 - ⚡ Graduated from <b>Florida Agricultural and Mechanical University!</b>
-- ⚡ I want to eventually create my own platform to teach development one day!
-- ⚡ I'm also certified in AWS for cloud practicioner! 
+
 <hr>
 
 ## Tech Stack

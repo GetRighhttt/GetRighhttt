@@ -9,8 +9,8 @@ constructive criticism, and learn from all of the connections I make. Hopefully 
 able to relay the knowledge I've gained with others as well!</p>
 
 - 💬 Ask me about anything! I'm always looking to learn as well as help if I can.
-- 📫 You can reach me via my email address: @stefanbusiness95@gmail.com, or my Twitter account!
-- ⚡ Graduated from <b>Florida Agricultural and Mechanical University!</b>
+- 📫 You can reach me via my email address: @stefanbusiness95@gmail.com!
+- ⚡ Graduated from THE <b>Florida Agricultural and Mechanical University!</b>
 
 <hr>
 

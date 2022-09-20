@@ -1,7 +1,4 @@
-# Hi there 👋
-
-<h3>Welcome to my page!</h3>
-
+# Welcome to My Page! 👋
 <hr>
 I'm truly passionate about creating applications with Kotlin and Java, and integrating new technologies<br>
 into my applications as often as possible. I'm always looking to further my knowledge, receive <br>
@@ -15,10 +12,10 @@ able to relay the knowledge I've gained with others as well!</p>
 <hr>
 
 ## Tech Stack
-####  Android
+####  Android Development
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=fff"> <img src="https://img.shields.io/badge/-JetpackCompose-4285F4?logo=JetpackCompose&logoColor=fff"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
 
-#### Web & Script
+#### Web Developemnt & Scripting
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 #### Data Persistence

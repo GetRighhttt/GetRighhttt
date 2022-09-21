@@ -23,10 +23,10 @@ able to relay the knowledge I've gained with others as well!</p>
 <hr>
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GetRighhttt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GetRighhttt&theme=algolia&showicons=true)](https://github.com/GetRighhttt/github-readme-stats)
 
 ## My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GetRighhttt&count_private=true&show_icons=true&theme=radical)
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GetRighhttt&theme=algolia&showicons=true)](https://github.com/GetRighhttt/github-readme-stats)
 
 
 ## AWS Certification :

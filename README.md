@@ -23,7 +23,7 @@ able to relay the knowledge I've gained with others as well!</p>
 <hr>
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GetRighhttt&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GetRighhttt)
 
 ## My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GetRighhttt&count_private=true&show_icons=true&theme=radical)

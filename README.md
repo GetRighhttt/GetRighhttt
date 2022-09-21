@@ -23,7 +23,7 @@ able to relay the knowledge I've gained with others as well!</p>
 <hr>
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GetRighhttt&theme=algolia&showicons=true)](https://github.com/GetRighhttt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GetRighhttt&theme=nightowl&showicons=true)](https://github.com/GetRighhttt/github-readme-stats)
 
 ## My Stats
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GetRighhttt&theme=algolia&showicons=true)](https://github.com/GetRighhttt/github-readme-stats)

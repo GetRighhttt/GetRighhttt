@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=getrighhttt" alt="getrighhttt" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development!**
+- 🔭 I’m currently working on **iOS Development!**
 
 - 👯 I’m looking to collaborate on **any project necessary! I enjoy learning new things.**
 
-- 🤝 I’m looking for help with **learning more development concepts.**
+- 🤝 I’m looking for help with **learning more mobile development concepts.**
 
 - 💬 Ask me about **anything!**
 

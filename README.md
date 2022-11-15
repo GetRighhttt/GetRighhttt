@@ -32,5 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getrighhttt&theme=radical" alt="getrighhttt" /></p>
 
 
-## AWS Certification :
-![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png)
+### AWS Certification :
+<p><img align="center" src="https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png" width="140" height="140"></p>

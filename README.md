@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=getrighhttt" alt="getrighhttt" /></a> </p>
 
-- 🔭 I’m currently working on **iOS Development!**
+- 🔭 I’m currently working on **Concurrency and Multithreading Conceptual Knowledge!**
 
-- 👯 I’m looking to collaborate on **any project necessary! I enjoy learning new things.**
+- 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for help with **learning more mobile development concepts.**
+- 🤝 I’m looking for help with **flutter/other multiplatform technologies.**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **Mobile concepts, design patterns, basic knowledge about android development, etc.**
 
 - 📫 How to reach me **stefanbusiness95@gmail.com.**
 
-- ⚡ Fun fact **My account name is from Fortnite. LOL**
+- ⚡ Fun fact **"GetRighhttt comes from Fortnite gaming in college!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

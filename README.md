@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=getrighhttt" alt="getrighhttt" /></a> </p>
 
-- 🔭 I’m currently working on **Crossplatform development with Flutter.**
+- 🔭 I’m currently working on **Cross-platform development with Flutter.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for help with **flutter/other crossplatform technologies.**
+- 🤝 I’m looking for help with **flutter/other cross-platform technologies.**
 
 - 💬 Ask me about **Mobile concepts, design patterns, basic knowledge about android development, etc.**
 

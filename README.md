@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=getrighhttt" alt="getrighhttt" /></a> </p>
 
-- 🔭 I’m currently working on **API Testing with Postman**
+- 🔭 I’m currently working on **Flutter!**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for help with **Architectural and Design Patterns.**
+- 🤝 I’m looking for help with **AI technologies.**
 
 - 💬 Ask me about **Mobile concepts, design patterns, basic knowledge about android development, etc.**
 

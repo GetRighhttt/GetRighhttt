@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=getrighhttt" alt="getrighhttt" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter!**
+- 🔭 I’m currently working on **Flutter & Jetpack Compose!**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 

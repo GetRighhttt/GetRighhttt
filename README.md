@@ -32,6 +32,10 @@
 #### Coursera
 [Working_With_Data.pdf](https://github.com/user-attachments/files/18231044/Working_With_Data.pdf) | 
 [Advanced_Kotlin.pdf](https://github.com/user-attachments/files/18231045/Advanced_Kotlin.pdf) |
-[Version_Control.pdf](https://github.com/user-attachments/files/18231048/Version_Control.pdf) <br>
+[Version_Control.pdf](https://github.com/user-attachments/files/18231048/Version_Control.pdf) |
+<br>
+
+#### Phillip Lacker
+[Kotlin Coroutines & Flows Masterclass](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1736378298567_YsfmBAvp1IqBKd23MzHg.pdf?alt=media&token=dbab04fa-c534-4ff5-92d9-5cbf19ef1c73) <br>
 
 

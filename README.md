@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=getrighhttt" alt="getrighhttt" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter & Jetpack Compose!**
+- 🔭 I’m currently working on **Compose Multiplatform!**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for help with **AI technologies.**
+- 🤝 I’m looking for help with **AI Assisted Development.**
 
-- 💬 Ask me about **Mobile concepts, design patterns, basic knowledge about android development, etc.**
+- 💬 Ask me about **Mobile concepts, design patterns, basic knowledge about Android development, etc.**
 
 - 📫 How to reach me **stefanbusiness95@gmail.com.**
 

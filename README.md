@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
-<h1 align="center">Hi 👋, I'm Stefan!</h1>
-<h3 align="center">A passionate and determined developer.</h3>
+<h1 align="center">Hey, I'm Stefan!</h1>
+<h3 align="center">A senior mobile engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=getrighhttt" alt="getrighhttt" /></a> </p>
 

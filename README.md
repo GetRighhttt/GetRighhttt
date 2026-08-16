@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Profile banner" />
 </p>
 
-<p align="center"># Hey, I'm Stefan 👋</p>
+# Hey, I'm Stefan 👋
 
 I'm a **Senior Mobile Engineer** who enjoys building thoughtful Android and cross-platform experiences with Kotlin.
 

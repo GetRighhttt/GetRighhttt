@@ -17,8 +17,8 @@ I build mobile applications, improve established codebases, and work on the syst
 | Mobile platforms | Android, iOS, Flutter, Kotlin Multiplatform, and Compose Multiplatform |
 | Android and Kotlin | Kotlin, Java, Jetpack Compose, Views/XML, coroutines, Flow, Room, Paging, and Gradle |
 | iOS and cross-platform | Swift, Flutter, Dart, KMP, and shared mobile architecture |
-| Architecture | MVVM, design patterns, state management, lifecycle-aware design, concurrency, and modularization |
-| Data and services | REST APIs, networking, persistence, Firebase, MySQL, and location-based features |
+| Architecture | MVVM, MVI, design patterns, state management, lifecycle-aware design, concurrency, and modularization |
+| Data and services | REST APIs, websockets, networking, persistence, Firebase, MySQL, and location-based features |
 | Delivery and collaboration | Git, Jenkins, Figma, Android Studio, Xcode, and modern mobile tooling |
 | Additional experience | Python, C++, C#, JavaScript, HTML, and CSS |
 

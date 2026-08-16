@@ -1,41 +1,63 @@
-<img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
-<h1 align="center">Hey, I'm Stefan!</h1>
-<h3 align="center">A senior mobile engineer.</h3>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Profile banner" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=getrighhttt" alt="getrighhttt" /></a> </p>
+# Hey, I'm Stefan 👋
 
-- 🔭 I’m currently working on **Compose Multiplatform!**
+I'm a **Senior Mobile Engineer** who enjoys building thoughtful Android and cross-platform experiences with Kotlin.
 
-- 👯 I’m looking to collaborate on **open source projects.**
+I like the parts of mobile engineering where product experience and technical depth meet: shaping architecture, making state and lifecycle behavior predictable, modernizing established codebases, and leaving things clearer than I found them. Lately, I have been spending time with Compose Multiplatform and practical AI-assisted development workflows.
 
-- 🤝 I’m looking for help with **AI Assisted Development.**
+This profile is a mix of current work, older projects I still enjoy improving, and the lessons I want to carry into production applications.
 
-- 💬 Ask me about **Mobile concepts, design patterns, basic knowledge about Android development, etc.**
+[Email](mailto:stefanbusiness95@gmail.com) · [GitHub](https://github.com/GetRighhttt)
 
-- 📫 How to reach me **stefanbusiness95@gmail.com.**
+## What I'm exploring
 
-- ⚡ Fun fact **"GetRighhttt comes from Fortnite gaming in college!**
+- Building shared mobile experiences with Compose Multiplatform.
+- Exploring practical, responsible AI-assisted development workflows.
+- Contributing to open-source projects and exchanging ideas with other mobile engineers.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a></p>
+## How I like to build
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=getrighhttt&theme=radical&show_icons=true&locale=en&layout=compact" alt="getrighhttt" /></p>
+- Modernize established systems incrementally while preserving product stability.
+- Keep lifecycle, state ownership, and concurrency behavior explicit and testable.
+- Pair architecture decisions with clear documentation and focused regression tests.
+- Balance platform-native quality with pragmatic opportunities for shared code.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getrighhttt&theme=radical&show_icons=true&locale=en" alt="getrighhttt" /></p>
+## Core expertise
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getrighhttt&theme=radical" alt="getrighhttt" /></p>
+- **Mobile:** Android, Kotlin, Java, Swift, Compose Multiplatform
+- **Architecture:** MVVM, design patterns, state management, coroutines, and Flow
+- **Data and services:** REST APIs, Room, Firebase, MySQL
+- **Delivery and collaboration:** Git, Jenkins, Figma
+- **Additional experience:** Python, C++, C#, JavaScript, HTML, and CSS
 
-### Certifications :
-#### AWS
-<p><img align="center" src="https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png" width="140" height="140"></p>
+## Selected project
 
-#### Coursera
-[Working_With_Data.pdf](https://github.com/user-attachments/files/18231044/Working_With_Data.pdf) | 
-[Advanced_Kotlin.pdf](https://github.com/user-attachments/files/18231045/Advanced_Kotlin.pdf) |
-[Version_Control.pdf](https://github.com/user-attachments/files/18231048/Version_Control.pdf) |
-<br>
+### [Recipe Compose](https://github.com/GetRighhttt/RecipeCompose)
 
-#### Phillip Lacker
-[Kotlin Coroutines & Flows Masterclass](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1736378298567_YsfmBAvp1IqBKd23MzHg.pdf?alt=media&token=dbab04fa-c534-4ff5-92d9-5cbf19ef1c73) <br>
+An end-to-end Android application that connects recipe discovery, restaurant search, interactive maps, and real-world driving directions.
 
+- State-driven UI built with Jetpack Compose, Material 3, ViewModels, and `StateFlow`.
+- TheMealDB and Yelp integrations with debounced search, request cancellation, loading/error states, and location fallbacks.
+- Firebase authentication, Room favorites, Google Maps Compose, adjustable destinations, and directions handoff.
+- Production-conscious credential injection, redacted authorization headers, and debug-only HTTP body logging.
 
+[View all public repositories](https://github.com/GetRighhttt?tab=repositories)
+
+## Certifications and continuing education
+
+- **AWS:** [Certification badge](https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png)
+- **Coursera:** [Working with Data](https://github.com/user-attachments/files/18231044/Working_With_Data.pdf)
+- **Coursera:** [Advanced Kotlin](https://github.com/user-attachments/files/18231045/Advanced_Kotlin.pdf)
+- **Coursera:** [Version Control](https://github.com/user-attachments/files/18231048/Version_Control.pdf)
+- **Philipp Lackner:** [Kotlin Coroutines & Flows Masterclass](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1736378298567_YsfmBAvp1IqBKd23MzHg.pdf?alt=media&token=dbab04fa-c534-4ff5-92d9-5cbf19ef1c73)
+
+## Let's connect
+
+I always enjoy a thoughtful conversation about Android architecture, Kotlin, mobile design patterns, Compose Multiplatform, AI-assisted engineering, or open-source collaboration.
+
+You can reach me at [stefanbusiness95@gmail.com](mailto:stefanbusiness95@gmail.com).
+
+> **Fun fact:** “GetRighhttt” started as my Fortnite handle during college and followed me into software development.

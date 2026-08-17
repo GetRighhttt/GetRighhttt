@@ -15,11 +15,11 @@ I build mobile applications, improve established codebases, and work on the syst
 | Area | Experience |
 | --- | --- |
 | Mobile platforms | Android, iOS, Flutter, Kotlin Multiplatform, and Compose Multiplatform |
-| Android and Kotlin | Kotlin, Java, Jetpack Compose, Views/XML, coroutines, Flow, Room, Paging, and Gradle |
+| Android and Kotlin | Kotlin, Java, Jetpack Compose, Views/XML, Coroutines, Rx, Flow, Room, Paging, Dagger/Hilt, Koin, Ktor, DataStore, and Gradle |
 | iOS and cross-platform | Swift, Flutter, Dart, KMP, and shared mobile architecture |
-| Architecture | MVVM, MVI, design patterns, state management, lifecycle-aware design, concurrency, and modularization |
+| Architecture | MVVM, MVI, MVP, design patterns, state management, lifecycle-aware design, concurrency, and modularization |
 | Data and services | REST APIs, websockets, networking, persistence, Firebase, MySQL, and location-based features |
-| Delivery and collaboration | Git, Jenkins, Figma, Android Studio, Xcode, and modern mobile tooling |
+| Delivery and collaboration | Git, Jenkins, ClickUp, BitBucket, Figma, Android Studio, Xcode, and modern mobile tooling |
 | Additional experience | Python, C++, C#, JavaScript, HTML, and CSS |
 
 ## How I approach engineering
@@ -60,6 +60,8 @@ The project demonstrates:
 - **Advanced Kotlin — Coursera:** [View certificate](https://github.com/user-attachments/files/18231045/Advanced_Kotlin.pdf)
 - **Version Control — Coursera:** [View certificate](https://github.com/user-attachments/files/18231048/Version_Control.pdf)
 - **Kotlin Coroutines & Flows Masterclass — Philipp Lackner:** [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1736378298567_YsfmBAvp1IqBKd23MzHg.pdf?alt=media&token=dbab04fa-c534-4ff5-92d9-5cbf19ef1c73)
+- **Professional App Development With CI/CD — Philipp Lackner:** [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1757683218170_2FPpyw5W1tp9VjiyTM4v.pdf?alt=media&token=afd7458a-879a-456b-8426-9475818d013f)
+- **Android Internals — Philipp Lackner:** [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1745013500352_VnwdjgXNctjeQtmYUdHeh.pdf?alt=media&token=228c8d98-8baf-4d29-9610-c5cce34dd663)
 
 ## Let’s connect
 

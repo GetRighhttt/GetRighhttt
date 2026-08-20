@@ -4,7 +4,7 @@
 
 # Hey, I'm Stefan 👋
 
-I’m a **Senior Mobile Engineer** with professional experience across Android, iOS, Flutter, and Kotlin Multiplatform. My deepest experience is in Android and Kotlin, but I enjoy working across platforms when the product or team benefits from shared architecture and code.
+I’m a Senior Mobile Engineer with professional experience across Android, iOS, Flutter, and Kotlin Multiplatform. My deepest experience is in Android and Kotlin, but I enjoy working across platforms.
 
 I build mobile applications, improve established codebases, and work on the systems around them: architecture, state management, lifecycle behavior, concurrency, testing, developer tooling, and delivery. I’m currently exploring Compose Multiplatform and practical AI-assisted development workflows.
 

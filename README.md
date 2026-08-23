@@ -3,10 +3,9 @@
 </p>
 
 # Hey, I'm Stefan
-
 I'm a Senior Mobile Engineer who cares about building mobile apps that feel steady, thoughtful, and maintainable after the first version ships.
 Most of my professional work has been in Android, but my experience reaches across iOS, Flutter, Kotlin Multiplatform, and the systems around mobile development. I like the part of engineering where product behavior, platform details, architecture, and team habits all meet. The code matters, but so does whether the next person can understand it, test it, and safely change it.
-I spend a lot of time modernizing older codebases, cleaning up state ownership, improving UI consistency, and making lifecycle behavior less mysterious. Lately, I've also been exploring Compose Multiplatform and practical AI-assisted development workflows.
+I spend a lot of time modernizing older codebases, cleaning up state ownership, improving UI consistency, and making lifecycle behavior less mysterious. Lately, I have also been applying Compose Multiplatform to real migrations and exploring practical AI-assisted development workflows.
 [Email](mailto:stefanbusiness95@gmail.com) · [GitHub](https://github.com/GetRighhttt)
 ## What I Care About
 I like mobile engineering because the details are close to the user. A small state bug, a rough loading state, a keyboard covering a form, or a broken navigation edge case can change how polished the whole product feels.
@@ -22,20 +21,21 @@ That pattern is intentional. I learn best by isolating a concept, building somet
 You will see a few threads running through the work:
 - Android fundamentals: Activities, intents, permissions, notifications, sensors, content providers, WorkManager, Room, Retrofit, RecyclerView, ViewBinding, and lifecycle behavior.
 - Modern Android: Jetpack Compose, Material 3, Navigation Compose, StateFlow, Paging 3, Hilt/Koin, Kotlin DSL, version catalogs, and edge-to-edge UI.
-- Cross-platform mobile: Swift, SwiftUI, Flutter, Dart, Kotlin Multiplatform, and Compose Multiplatform experiments.
-- Product integrations: Firebase auth, TheMealDB, Yelp, Google Maps, directions handoff, local persistence, API search, and network state handling.
+- Cross-platform mobile: Swift, SwiftUI, Flutter, Dart, Kotlin Multiplatform, and Compose Multiplatform applications and migrations.
+- Product integrations: TheMealDB, Yelp, Google Maps, MapKit, directions handoff, local persistence, API search, and network state handling.
 - Broader engineering practice: Java, Kotlin, JavaScript, Python/FastAPI, C, shell scripting, Gradle, Postman, and developer environment configuration.
+
 ## Selected Projects
 ### [Recipe Compose](https://github.com/GetRighhttt/RecipeCompose)
-Recipe Compose started as a Jetpack Compose learning project and grew into a fuller Android product sample. It connects recipe discovery with restaurant search, interactive maps, and driving directions.
-The project shows how I approach modern Compose work: state-driven screens, Material 3 design, debounced API search, explicit loading and error states, Firebase authentication, Room-backed favorites, Google Maps Compose, and credential handling.
+Recipe Compose started as a Jetpack Compose learning project and evolved into a Compose Multiplatform application for Android and iOS. It combines recipe discovery, saved dishes, nearby restaurant search, native maps, and directions in one practical product experience.
+The project now shares its Compose UI, navigation, presentation state, networking, dependency injection, and persistence across both platforms. It uses Ktor, Kotlin serialization, Koin, Room KMP, and DataStore while keeping platform-specific behavior where it belongs: Google Maps and fused location on Android, and MapKit and Core Location on iOS.
 ### [Rick and Morty Android MVVM](https://github.com/GetRighhttt/RickAndMortyAndroidMVVM)
 Rick and Morty Android MVVM is an older View-based Android project that I refreshed as a reference for modernizing legacy mobile code without turning the work into a rewrite.
 The project now demonstrates production-shaped Paging 3, edge-to-edge layout migration, Material 3 theming, clearer empty/loading/error states, lifecycle-aware collection, and focused PagingSource tests.
 [View all public repositories](https://github.com/GetRighhttt?tab=repositories)
 ## Tools And Technologies
 Android is where I am strongest: Kotlin, Java, Jetpack Compose, Views/XML, coroutines, Flow, Room, Paging, Hilt, Retrofit, Material, and Gradle.
-I also work across Swift, SwiftUI, Flutter, Dart, Kotlin Multiplatform, Compose Multiplatform, Firebase, MySQL, REST APIs, Python, C, C++, C#, JavaScript, HTML, CSS, Jenkins, Figma, Android Studio, Xcode, and developer tooling.
+I also work across Swift, SwiftUI, Flutter, Dart, Kotlin Multiplatform, Compose Multiplatform, Ktor, Koin, Room KMP, DataStore, MapKit, Core Location, Firebase, MySQL, REST APIs, Python, C, C++, C#, JavaScript, HTML, CSS, Jenkins, Figma, Android Studio, Xcode, and developer tooling.
 ## Certifications And Continuing Education
 - **AWS:** [View credential](https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png)
 - **Working with Data - Coursera:** [View certificate](https://github.com/user-attachments/files/18231044/Working_With_Data.pdf)

@@ -3,48 +3,72 @@
 </p>
 
 # Hey, I'm Stefan
-I'm a Senior Mobile Engineer who cares about building mobile apps that feel steady, thoughtful, and maintainable after the first version ships.
-Most of my professional work has been in Android, but my experience reaches across iOS, Flutter, Kotlin Multiplatform, and the systems around mobile development. I like the part of engineering where product behavior, platform details, architecture, and team habits all meet. The code matters, but so does whether the next person can understand it, test it, and safely change it.
-I spend a lot of time modernizing older codebases, cleaning up state ownership, improving UI consistency, and making lifecycle behavior less mysterious. Lately, I have also been applying Compose Multiplatform to real migrations and exploring practical AI-assisted development workflows.
-[Email](mailto:stefanbusiness95@gmail.com) · [GitHub](https://github.com/GetRighhttt)
-## What I Care About
-I like mobile engineering because the details are close to the user. A small state bug, a rough loading state, a keyboard covering a form, or a broken navigation edge case can change how polished the whole product feels.
-The work I enjoy most usually involves:
-- Making established apps easier to change without destabilizing the product.
-- Turning unclear lifecycle, concurrency, and state behavior into explicit flows.
-- Building UI that feels native to the platform and honest about loading, empty, and error states.
-- Choosing the right amount of shared code across Android, iOS, Flutter, and KMP.
-- Writing documentation that explains the reasoning, not just the steps.
-## My GitHub
-My GitHub has 90+ repositories, and it is honestly a pretty accurate record of how I study. Some repos are small drills around one Android component or language feature. Some are course projects. Some are older projects that I have come back to and modernized with better architecture, UI, testing, and documentation.
-That pattern is intentional. I learn best by isolating a concept, building something with it, and then folding the lesson back into a larger project.
-You will see a few threads running through the work:
-- Android fundamentals: Activities, intents, permissions, notifications, sensors, content providers, WorkManager, Room, Retrofit, RecyclerView, ViewBinding, and lifecycle behavior.
-- Modern Android: Jetpack Compose, Material 3, Navigation Compose, StateFlow, Paging 3, Hilt/Koin, Kotlin DSL, version catalogs, and edge-to-edge UI.
-- Cross-platform mobile: Swift, SwiftUI, Flutter, Dart, Kotlin Multiplatform, and Compose Multiplatform applications and migrations.
-- Product integrations: TheMealDB, Yelp, Google Maps, MapKit, directions handoff, local persistence, API search, and network state handling.
-- Broader engineering practice: Java, Kotlin, JavaScript, Python/FastAPI, C, shell scripting, Gradle, Postman, and developer environment configuration.
 
-## Selected Projects
+I'm a Senior Mobile Engineer, mostly working in Android. I also spend time with
+iOS, Flutter, and Kotlin Multiplatform.
+
+I like building apps and figuring out why things work the way they do. A lot of
+my work involves coming back to older code, making sense of it, and making it
+easier to work with. Lately, I've been working with Compose Multiplatform and
+trying out AI tools in my development workflow.
+
+[Email](mailto:stefanbusiness95@gmail.com) · [GitHub](https://github.com/GetRighhttt)
+
+## What's on here
+
+A mix of personal projects, course work, and things I've built to teach myself.
+Some repos started with one thing I wanted to understand. Others became apps I
+kept adding to.
+
+I've come back to a lot of these projects over the years. Sometimes I update
+them, sometimes I realize I understand something differently now. The history
+is part of why I like keeping them around.
+
+I've also been cleaning them up so they're easier to revisit and easier for
+someone else to run.
+
+## A few projects
+
 ### [Recipe Compose](https://github.com/GetRighhttt/RecipeCompose)
-Recipe Compose started as a Jetpack Compose learning project and evolved into a Compose Multiplatform application for Android and iOS. It combines recipe discovery, saved dishes, nearby restaurant search, native maps, and directions in one practical product experience.
-The project now shares its Compose UI, navigation, presentation state, networking, dependency injection, and persistence across both platforms. It uses Ktor, Kotlin serialization, Koin, Room KMP, and DataStore while keeping platform-specific behavior where it belongs: Google Maps and fused location on Android, and MapKit and Core Location on iOS.
+
+Started as a way to learn Jetpack Compose and grew into a recipe app for Android
+and iOS. I've used it to explore Compose Multiplatform, saving recipes, and
+finding nearby places to eat.
+
 ### [Rick and Morty Android MVVM](https://github.com/GetRighhttt/RickAndMortyAndroidMVVM)
-Rick and Morty Android MVVM is an older View-based Android project that I refreshed as a reference for modernizing legacy mobile code without turning the work into a rewrite.
-The project now demonstrates production-shaped Paging 3, edge-to-edge layout migration, Material 3 theming, clearer empty/loading/error states, lifecycle-aware collection, and focused PagingSource tests.
-[View all public repositories](https://github.com/GetRighhttt?tab=repositories)
-## Tools And Technologies
-Android is where I am strongest: Kotlin, Java, Jetpack Compose, Views/XML, coroutines, Flow, Room, Paging, Hilt, Retrofit, Material, and Gradle.
-I also work across Swift, SwiftUI, Flutter, Dart, Kotlin Multiplatform, Compose Multiplatform, Ktor, Koin, Room KMP, DataStore, MapKit, Core Location, Firebase, MySQL, REST APIs, Python, C, C++, C#, JavaScript, HTML, CSS, Jenkins, Figma, Android Studio, Xcode, and developer tooling.
-## Certifications And Continuing Education
-- **AWS:** [View credential](https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png)
-- **Working with Data - Coursera:** [View certificate](https://github.com/user-attachments/files/18231044/Working_With_Data.pdf)
-- **Advanced Kotlin - Coursera:** [View certificate](https://github.com/user-attachments/files/18231045/Advanced_Kotlin.pdf)
-- **Version Control - Coursera:** [View certificate](https://github.com/user-attachments/files/18231048/Version_Control.pdf)
-- **Kotlin Coroutines & Flows Masterclass - Philipp Lackner:** [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1736378298567_YsfmBAvp1IqBKd23MzHg.pdf?alt=media&token=dbab04fa-c534-4ff5-92d9-5cbf19ef1c73)
-- **Android Internals - Philipp Lackner:** [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1745013500352_VnwdjgXNctjeQtmYUdHeh.pdf?alt=media&token=228c8d98-8baf-4d29-9610-c5cce34dd663)
-- **Professional App Development With CI/CD - Philipp Lackner:** [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1757683218170_2/FPpyw5W1tp9VjiyTM4v.pdf?alt=media&token=afd7458a-879a-456b-8426-9475818d013f)
-## Let's Connect
-I’m always interested in conversations about Android architecture, Kotlin, Compose Multiplatform, mobile design patterns, AI-assisted engineering, and open-source collaboration.
-[Get in touch by email](mailto:stefanbusiness95@gmail.com) or [find me on GitHub](https://github.com/GetRighhttt).
-> Fun fact: "GetRighhttt" started as my Fortnite handle during college and followed me into software development.
+
+An older Android project I came back to update. I used it to work on the UI
+and how it handles loading and errors.
+
+### [Kotlin](https://github.com/GetRighhttt/Kotlin)
+
+I made this one to remember syntax, then barely revisited it for a while.
+I've learned Kotlin a few times at this point. It's now a collection of examples
+and notes I can come back to, with the earlier attempts still in the commit
+history.
+
+[Browse all public repositories](https://github.com/GetRighhttt?tab=repositories)
+
+## What I work with
+
+Android is where I'm most comfortable: Kotlin, Java, Compose, and Views/XML.
+I also work with Swift, SwiftUI, Flutter, Dart, and Kotlin Multiplatform.
+The repos have a mix of other languages and tools I've picked up along the way.
+
+## Courses and certificates
+
+- AWS: [View credential](https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png)
+- Working with Data - Coursera: [View certificate](https://github.com/user-attachments/files/18231044/Working_With_Data.pdf)
+- Advanced Kotlin - Coursera: [View certificate](https://github.com/user-attachments/files/18231045/Advanced_Kotlin.pdf)
+- Version Control - Coursera: [View certificate](https://github.com/user-attachments/files/18231048/Version_Control.pdf)
+- Kotlin Coroutines & Flows Masterclass - Philipp Lackner: [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1736378298567_YsfmBAvp1IqBKd23MzHg.pdf?alt=media&token=dbab04fa-c534-4ff5-92d9-5cbf19ef1c73)
+- Android Internals - Philipp Lackner: [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1745013500352_VnwdjgXNctjeQtmYUdHeh.pdf?alt=media&token=228c8d98-8baf-4d29-9610-c5cce34dd663)
+- Professional App Development With CI/CD - Philipp Lackner: [View certificate](https://files.mspotcdn.de/schools%2FNRYaO8KduDTG8m2REJmk%2FuserData%2FDuuDl4lBCRNwF4d18vp7qyI4Uo92%2F1757683218170_2/FPpyw5W1tp9VjiyTM4v.pdf?alt=media&token=afd7458a-879a-456b-8426-9475818d013f)
+
+## Say hello
+
+I'm happy to talk about Android, Kotlin, or something you're working on.
+You can reach me at [stefanbusiness95@gmail.com](mailto:stefanbusiness95@gmail.com).
+
+"GetRighhttt" was my Fortnite handle in college. It ended up following me into
+software development.

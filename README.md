@@ -35,6 +35,18 @@ Started as a way to learn Jetpack Compose and grew into a recipe app for Android
 and iOS. I've used it to explore Compose Multiplatform, saving recipes, and
 finding nearby places to eat.
 
+### [MVVM 2026](https://github.com/GetRighhttt/Stefan-Mvvm-2026)
+
+A small Android reference with the same login screen built in XML and Compose.
+Both use the same ViewModel, so I can compare the UI approaches and work through
+where state and app logic belong.
+
+### [Coroutines](https://github.com/GetRighhttt/Coroutines)
+
+My notes and runnable examples for Kotlin coroutines and Flow. I use small
+examples to work through suspension, cancellation, and other behavior that's
+easy to misread.
+
 ### [Rick and Morty Android MVVM](https://github.com/GetRighhttt/RickAndMortyAndroidMVVM)
 
 An older Android project I came back to update. I used it to work on the UI

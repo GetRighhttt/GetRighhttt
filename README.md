@@ -49,8 +49,8 @@ easy to misread.
 
 ### [Rick and Morty Android MVVM](https://github.com/GetRighhttt/RickAndMortyAndroidMVVM)
 
-An older Android project I came back to update. I used it to work on the UI
-and how it handles loading and errors.
+One of the first Android apps I built on my own. I've come back to it over the
+years to update the UI and rethink parts of the code as I learned more.
 
 ### [Kotlin](https://github.com/GetRighhttt/Kotlin)
 
@@ -84,3 +84,7 @@ You can reach me at [stefanbusiness95@gmail.com](mailto:stefanbusiness95@gmail.c
 
 "GetRighhttt" was my Fortnite handle in college. It ended up following me into
 software development.
+
+<p align="center">
+  <img src="assets/profile-banner.svg" width="1000" alt="Stefan Bayne, GetRighhttt. Mobile apps and side projects, with a phone and a game controller." />
+</p>

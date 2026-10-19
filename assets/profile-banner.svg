@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Stefan Bayne, GetRighhttt</title>
+  <desc id="desc">A dark profile banner with a pixel-style phone and game controller, a nod to Stefan's mobile development and college gaming handle.</desc>
+  <rect width="1000" height="300" rx="24" fill="#111827"/>
+  <path d="M680 0v300M720 0v300M760 0v300M800 0v300M840 0v300M880 0v300M920 0v300M960 0v300M640 40h360M640 80h360M640 120h360M640 160h360M640 200h360M640 240h360M640 280h360" stroke="#1f2937" stroke-width="1"/>
+  <rect x="48" y="46" width="154" height="28" rx="7" fill="#263342"/>
+  <text x="61" y="65" font-family="monospace" font-size="14" font-weight="700" fill="#75e3ce">GetRighhttt</text>
+  <text x="46" y="140" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f9fafb">Stefan Bayne</text>
+  <text x="49" y="182" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#cbd5e1">Mobile apps &amp; side projects</text>
+  <rect x="49" y="220" width="42" height="5" fill="#75e3ce"/>
+  <rect x="98" y="220" width="21" height="5" fill="#b7a4ee"/>
+  <rect x="126" y="220" width="10" height="5" fill="#eab88f"/>
+  <g shape-rendering="crispEdges">
+    <path d="M750 44h96v8h8v158h-8v8h-96v-8h-8V52h8z" fill="#72829b"/>
+    <path d="M758 53h80v153h-80z" fill="#101926"/>
+    <path d="M773 61h49v5h-49z" fill="#72829b"/>
+    <path d="M780 103h-8v8h-8v8h8v8h8v-8h-8v-8h8zM817 103h8v8h8v8h-8v8h-8v-8h8v-8h-8z" fill="#75e3ce"/>
+    <path d="M803 98h7l-15 40h-7z" fill="#b7a4ee"/>
+    <path d="M779 181h38v5h-38z" fill="#72829b"/>
+    <path d="M719 178h154v9h10v9h10v54h-10v9h-27v-9h-10v-10h-91v10h-10v9h-27v-9h-10v-54h10v-9h9z" fill="#b7a4ee"/>
+    <path d="M730 205h12v-12h12v12h12v12h-12v12h-12v-12h-12z" fill="#263342"/>
+    <path d="M851 195h12v12h-12zM869 213h12v12h-12z" fill="#263342"/>
+    <path d="M793 207h18v5h-18zM786 222h8v8h-8zM811 222h8v8h-8z" fill="#4c426c"/>
+    <path d="M693 82h8v8h-8zM898 138h8v8h-8zM705 148h5v5h-5z" fill="#75e3ce"/>
+    <path d="M880 59h8v8h-8zM920 203h6v6h-6z" fill="#eab88f"/>
+  </g>
+</svg>

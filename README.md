@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Animated mobile engineering banner" />
+  <img src="assets/profile-banner.svg" width="1000" alt="Stefan Bayne, GetRighhttt. Mobile apps and side projects, with a phone and a game controller." />
 </p>
 
 # Hey, I'm Stefan
@@ -104,5 +104,5 @@ You can reach me at [stefanbusiness95@gmail.com](mailto:stefanbusiness95@gmail.c
 software development.
 
 <p align="center">
-  <img src="assets/profile-banner.svg" width="1000" alt="Stefan Bayne, GetRighhttt. Mobile apps and side projects, with a phone and a game controller." />
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Animated mobile engineering banner" />
 </p>

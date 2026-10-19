@@ -1,0 +1,44 @@
+name: Commit chart
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 9 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/commit-chart.yml'
+      - 'scripts/update_commit_chart.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-commit-chart
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'GetRighhttt/GetRighhttt'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - name: Generate chart
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_USERNAME: GetRighhttt
+        run: python3 scripts/update_commit_chart.py
+      - name: Save chart
+        run: |
+          git add assets/commit-chart.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update commit chart'
+          git pull --rebase origin main
+          git push origin HEAD:main

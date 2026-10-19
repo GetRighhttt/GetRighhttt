@@ -85,6 +85,10 @@ I work with or have explored in my repos.
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+## Recent commits
+
+[![Commits over the last 90 days](assets/commit-chart.svg)](https://github.com/GetRighhttt?tab=overview)
+
 ## Courses and certificates
 
 - AWS: [View credential](https://user-images.githubusercontent.com/105057858/181920769-8e6a66aa-4b49-40b1-ac81-89db3063aada.png)

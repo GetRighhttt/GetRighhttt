@@ -87,7 +87,7 @@ I work with or have explored in my repos.
 
 ## Recent commits
 
-[![Stefan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GetRighhttt&theme=cottoncandy)](https://github.com/getrighhttt/github-readme-activity-graph)
+![Stefan's GitHub Contributions](https://raw.githubusercontent.com/GetRighhttt/GetRighhttt/output/github-contribution-grid-snake-dark.svg)
 
 ## Courses and certificates
 

@@ -61,6 +61,8 @@ history.
 
 [Browse all public repositories](https://github.com/GetRighhttt?tab=repositories)
 
+![Stefan's GitHub Contributions](https://raw.githubusercontent.com/GetRighhttt/GetRighhttt/output/github-contribution-grid-snake-dark.svg)
+
 ## What I work with
 
 Android is where I'm most comfortable. These are some of the languages and tools
@@ -84,10 +86,6 @@ I work with or have explored in my repos.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-## Recent commits
-
-![Stefan's GitHub Contributions](https://raw.githubusercontent.com/GetRighhttt/GetRighhttt/output/github-contribution-grid-snake-dark.svg)
 
 ## Courses and certificates
 

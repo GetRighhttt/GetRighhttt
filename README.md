@@ -2,6 +2,8 @@
   <img src="assets/profile-banner.svg" width="1000" alt="Stefan Bayne, GetRighhttt. Mobile apps and side projects, with a phone and a game controller." />
 </p>
 
+![Stefan's GitHub Contributions](https://raw.githubusercontent.com/GetRighhttt/GetRighhttt/output/github-contribution-grid-snake-dark.svg)
+
 # Hey, I'm Stefan
 
 I'm a Senior Engineer, mostly working in Android. I also spend time with
@@ -60,8 +62,6 @@ and notes I can come back to, with the earlier attempts still in the commit
 history.
 
 [Browse all public repositories](https://github.com/GetRighhttt?tab=repositories)
-
-![Stefan's GitHub Contributions](https://raw.githubusercontent.com/GetRighhttt/GetRighhttt/output/github-contribution-grid-snake-dark.svg)
 
 ## What I work with
 

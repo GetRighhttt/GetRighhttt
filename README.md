@@ -4,7 +4,7 @@
 
 # Hey, I'm Stefan
 
-I'm a Senior Engineer, mostly working in Android. I also spend time with
+I'm an Engineer, mostly working in Android. I also spend time with 
 iOS, Flutter, and Kotlin Multiplatform.
 
 I like building apps and figuring out why things work the way they do. A lot of
@@ -17,7 +17,7 @@ trying out AI tools in my development workflow.
 ## What's on here
 
 A mix of personal projects, course work, and things I've built to teach myself.
-Some repos started with one thing I wanted to understand. Others became apps I
+Some repos started with one concept I wanted to understand. Others became apps I
 kept adding to.
 
 I've come back to a lot of these projects over the years. Sometimes I update

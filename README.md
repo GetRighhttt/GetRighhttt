@@ -47,11 +47,6 @@ My notes and runnable examples for Kotlin coroutines and Flow. I use small
 examples to work through suspension, cancellation, and other behavior that's
 easy to misread.
 
-### [Rick and Morty Android MVVM](https://github.com/GetRighhttt/RickAndMortyAndroidMVVM)
-
-One of the first Android apps I built on my own. I've come back to it over the
-years to update the UI and rethink parts of the code as I learned more.
-
 ### [Kotlin](https://github.com/GetRighhttt/Kotlin)
 
 I made this one to remember syntax, then barely revisited it for a while.
